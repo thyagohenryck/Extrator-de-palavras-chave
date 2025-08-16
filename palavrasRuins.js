@@ -120,5 +120,15 @@ export const PALAVRAS_RUINS = new Set([
     "desde",
     "uma vez",
     "segundo",
-    "junto"
+    "junto",
+    "Goku",
+    "Naruto",
+    "Vegeta",
+    "Sasuke",
+    "sei la",
+    "nao sei oque era para alterar",
+    "demoro mó tempao pra finaliza",
+    "arroz",
+    "feijão",
+    "batata"
 ]);
